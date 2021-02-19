@@ -1,6 +1,6 @@
 ## PayOut CLI Tool
 
-### Prerequistics
+### Prerequisites
 
 - Node installed [Link](https://nodejs.org/en/download/)
 
