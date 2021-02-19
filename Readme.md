@@ -2,7 +2,7 @@
 
 ### Prerequistics
 
-- Node installed ![Link](https://nodejs.org/en/download/)
+- Node installed [Link](https://nodejs.org/en/download/)
 
 ### Setup and Installation
 
