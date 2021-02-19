@@ -1,5 +1,9 @@
 ## PayOut CLI Tool
 
+### Prerequistics
+
+- Node installed ![Link](https://nodejs.org/en/download/)
+
 ### Setup and Installation
 
 ```
